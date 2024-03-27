@@ -427,7 +427,7 @@ library(ggalt)
 #API key
 
 # this sets your google map permanently
-register_google(key = "AIzaSyAGKqqXWVZ8kWCyJPrScpo_Xon9-Ju6x_Y", write = TRUE)
+register_google(key = "XXXX", write = TRUE)
 
 # Get Chennai's Coordinates --------------------------------
 chennai <-  geocode("Chennai")  # get longitude and latitude
